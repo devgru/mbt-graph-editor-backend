@@ -1,0 +1,7 @@
+{
+  "name": "mbt-graph-editor-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "<git@devg.ru> (https://devg.ru/)",
+  "license": "MIT"
+}
